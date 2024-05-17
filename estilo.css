@@ -1,0 +1,47 @@
+.cabecalho {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction:  row;
+}
+.cabecalho img{
+    justify-content: start;
+    padding-right: 30px ;
+}
+
+.cabecalho a{
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.rentabilidade td {
+    padding-left:10px;
+    padding-right:10px;
+    
+}
+.proventos td {
+    padding-left:10px;
+    padding-right:10px;
+    
+}
+
+.resultados td {
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.nada{
+    border: 0px;
+}
+
+.imagem{
+    float: left;
+    padding-right: 20px;
+  }
+.imagem p {
+    width: 100%;
+    height: 100%;
+    padding-left:20px ;
+    
+}
+  
